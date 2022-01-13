@@ -1,2 +1,2 @@
-# my_first_web
-A simple website make Django. You can create, read, update, and delete posts.
+# Django Web Site
+This is a simple website made of Django. You can create, read, update, and delete posts.
